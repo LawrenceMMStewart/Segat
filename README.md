@@ -2,9 +2,9 @@
 
 Segat is a Pytorch module that provides a variety of FGSM attacks for semantic segmentation networks. The module contains an example on the popular architecture Deeplab V3.
 
-<!-- <img src="https://github.com/LawrenceMMStewart/Bayesian_Optimization/blob/master/Images/XOR.png" width="450">
+<img src="https://github.com/LawrenceMMStewart/Segat/blob/master/images/hallucination.png" width="350">
 
- -->
+
 
 # Contents 
 
