@@ -508,9 +508,6 @@ if __name__ == "__main__":
 
 
 
-
-
-
     #Clear the saved image repository and then plot the segmentations       
     processing.clear_saved_plots()
 

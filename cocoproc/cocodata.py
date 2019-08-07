@@ -1,5 +1,5 @@
-#This file contains 
-
+#Preprocessing for the subset of Coco that deeplab v3 is trained on (the set containing pascal VOC labels).
+#Note this requires the  pycocotools package available on github
 
 import numpy as np
 import torch

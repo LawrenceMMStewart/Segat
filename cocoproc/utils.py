@@ -1,3 +1,5 @@
+#contains simple functions for processing the segmentations maps
+
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
