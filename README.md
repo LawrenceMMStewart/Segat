@@ -1,6 +1,6 @@
 # Segat 
 
-Segat is a Pytorch module that provides a variety of FGSM attacks for semantic segmentation networks. The module contains an example on the popular architecture Deeplab V3.
+Segat is a Pytorch project that provides a variety of FGSM attacks for semantic segmentation networks. The module contains an example on the popular architecture Deeplab V3.
 
 <img src="https://github.com/LawrenceMMStewart/Segat/blob/master/images/hallucination.png" width="750">
 
